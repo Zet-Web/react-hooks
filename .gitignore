@@ -7,7 +7,7 @@
 # IntellijIdea files
 *.iml
 .idea
-out
+
 # testing
 /coverage
 
